@@ -511,7 +511,7 @@ header.sticky{
 		background: transparent;
 		cursor: pointer;
 		display: block;
-		visibility: visible;
+		visibility: collapse;
 		
 		
 			
@@ -524,6 +524,6 @@ header.sticky{
 		padding: 10px 20px;
 		background: var(--main-color);
 		border-radius: 5rem;
-		visibility: collapse;
+		visibility: visible;
 	}
   }
